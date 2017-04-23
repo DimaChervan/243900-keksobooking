@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Dmitriy Chervan](https://up.htmlacademy.ru/javascript/9/user/243900).
-* Наставник: `Неизвестно`.
+* Наставник: `Кекс`.
 
 ---
 
